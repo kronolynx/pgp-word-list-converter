@@ -1,0 +1,21 @@
+{
+  "name": "pgp-word-list-converter",
+  "version": "1.0.0",
+  "description": "Convert hex strings to PGP word lists and vice-versa",
+  "main": "pgpWordConvert.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "repository": "https://github.com/kronolynx/pgp-word-list-converter",
+  "keywords": [
+    "pgp"
+  ],
+  "author": "Warren Guy <warren@guy.net.au>",
+  "contributors": ["Johann Og <johann@stampery.com"],
+  "maintainers" : ["Johann Og <johann@stampery.com"],
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+
+}
