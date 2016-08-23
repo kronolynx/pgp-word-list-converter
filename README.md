@@ -25,4 +25,4 @@ As an optional parameter we can pass a custom PGP word list
 
 ## License
 
-MIT license. See [LICENSE]
+MIT license. See [LICENSE](https://github.com/kronolynx/pgp-word-list-converter/blob/master/LICENSE)
